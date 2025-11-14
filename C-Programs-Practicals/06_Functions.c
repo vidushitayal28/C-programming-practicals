@@ -1,4 +1,5 @@
 // Simple functions: Simple Interest, Prime check, Armstrong check (menu)
+//VIDUSHI TAYAL 25070521075
 #include <stdio.h>
 #include <math.h>
 

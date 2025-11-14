@@ -1,4 +1,5 @@
 // Structures: Distance addition and simple CGPA calculation
+//VIDUSHI TAYAL 25070521075
 #include <stdio.h>
 
 struct Distance {

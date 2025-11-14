@@ -1,4 +1,5 @@
 // Looping and Branching: simple menu with switch-case, quadratic solver, and digit sum
+//VIDUSHI TAYAL 25070521075
 #include <stdio.h>
 #include <math.h>
 

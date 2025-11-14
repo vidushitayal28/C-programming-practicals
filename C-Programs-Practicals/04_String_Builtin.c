@@ -1,4 +1,5 @@
 // String operations using built-in functions: strcat, strcpy, strcmp
+//VIDUSHI TAYAL 25070521075
 #include <stdio.h>
 #include <string.h>
 
@@ -6,7 +7,7 @@ int main(){
     char s1[100], s2[100];
     printf("Enter first string: ");
     if (!fgets(s1, sizeof(s1), stdin)) return 0;
-    // remove newline
+    
     s1[strcspn(s1, "\n")] = 0;
     printf("Enter second string: ");
     if (!fgets(s2, sizeof(s2), stdin)) return 0;

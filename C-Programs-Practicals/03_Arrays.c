@@ -1,4 +1,5 @@
 // Arrays: mean, variance, sum of positives and negatives
+//VIDUSHI TAYAL 25070521075
 #include <stdio.h>
 #include <math.h>
 

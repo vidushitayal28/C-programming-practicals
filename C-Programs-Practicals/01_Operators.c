@@ -1,5 +1,5 @@
 // Demonstrate Arithmetic, Logical, Relational, and Conditional Operators
-
+//VIDUSHI TAYAL 25070521075
 #include <stdio.h>
 
 int main() {

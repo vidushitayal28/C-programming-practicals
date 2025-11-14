@@ -1,4 +1,5 @@
 // String operations using user-defined functions: simple strlen and strcat
+//VIDUSHI TAYAL 25070521075
 #include <stdio.h>
 
 int my_strlen(const char *s){
